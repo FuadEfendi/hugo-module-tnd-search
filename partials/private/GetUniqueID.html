@@ -16,7 +16,7 @@
 */}}
 {{ $id := "" }}
 {{ with $.File }}
-  {{ $id = print .Lang "_" .Path }}
+  {{ $id = print $.Page.Language.Lang "_" .Path }}
 {{ else }}
   {{ $id = .RelPermalink }}
 {{ end }}
