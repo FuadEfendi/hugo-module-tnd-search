@@ -4,7 +4,7 @@
   "description": "Hugo Module to handle Search from back to front",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theNewDynamic/hugo-module-tnd-search.git"
+    "url": "git+https://github.com/FuadEfendi/hugo-module-tnd-search.git"
   },
   "keywords": [
     "hugo",
@@ -15,9 +15,9 @@
   "author": "theNewDynamic",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/theNewDynamic/hugo-module-tnd-search/issues"
+    "url": "https://github.com/FuadEfendi/hugo-module-tnd-search/issues"
   },
-  "homepage": "https://github.com/theNewDynamic/hugo-module-tnd-search#readme",
+  "homepage": "https://github.com/FuadEfendi/hugo-module-tnd-search#readme",
   "devDependencies": {
     "algoliasearch": "^4.8.6",
     "instantsearch.js": "^4.17.0"

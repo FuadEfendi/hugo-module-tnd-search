@@ -1,7 +1,7 @@
 {
  "author": "theNewDynamic",
  "bugs": {
-  "url": "https://github.com/theNewDynamic/hugo-module-tnd-search/issues"
+  "url": "https://github.com/FuadEfendi/hugo-module-tnd-search/issues"
  },
  "comments": {
   "dependencies": {},
@@ -18,7 +18,7 @@
   "algoliasearch": "^4.8.6",
   "instantsearch.js": "^4.17.0"
  },
- "homepage": "https://github.com/theNewDynamic/hugo-module-tnd-search#readme",
+ "homepage": "https://github.com/FuadEfendi/hugo-module-tnd-search#readme",
  "keywords": [
   "hugo",
   "module",
@@ -29,7 +29,7 @@
  "name": "hugo-module-tnd-search",
  "repository": {
   "type": "git",
-  "url": "git+https://github.com/theNewDynamic/hugo-module-tnd-search.git"
+  "url": "git+https://github.com/FuadEfendi/hugo-module-tnd-search.git"
  },
  "version": "0.1.4"
 }
